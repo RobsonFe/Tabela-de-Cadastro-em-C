@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668782118 source:c:\users\user\documents\estagiario robson\curso de linguagem c\cadastro\main.c
+	<stdio.h>
+	<string.h>
+
