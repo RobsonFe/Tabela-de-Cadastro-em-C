@@ -5,7 +5,7 @@
 
 //Aluno: Robson Ferreira da Silva;
 //Curso: Analise e Desenvolvimento de Sistemas;
-//1บ Periodo
+//1ยบ Periodo
 
 void limpar_entrada()
 {
@@ -46,13 +46,13 @@ int main()
         ler_texto(nomes[i], 50);
         printf("Idade: ");
         scanf("%d", &idades[i]);
-        printf("Sexo: ");
+        printf("Sexo (F/M): ");
         scanf("%s", &sexo[i]);
         printf("Salario: ");
         scanf("%lf", &salarios[i]);
     }
 
-    printf("\nPessoas Cadastradas\n");
+    printf("\tPessoas Cadastradas\n");
     for (int i = 0; i < n; i++)
     {
         printf("%d" [i]);
